@@ -1,5 +1,5 @@
 # Dicee Challenge
-You can experience the Dicee Challenge in action by clicking [here](#).
+You can experience the Dicee Challenge in action by clicking [here](https://sufianadnan.github.io/Dicee-Challenge/).
 
 ![Dicee Challenge Preview](./images/preview.png)
 
@@ -55,4 +55,4 @@ The project utilizes the following technologies:
 
 # Live Demo
 
-You can experience the Dicee Challenge in action by clicking [here](#).
+You can experience the Dicee Challenge in action by clicking [here](https://sufianadnan.github.io/Dicee-Challenge/).
